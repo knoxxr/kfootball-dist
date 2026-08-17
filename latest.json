@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "6.6-update",
+  "versionCode": 42,
+  "versionName": "6.7-dist",
   "url": "https://knoxxr.github.io/kfootball-dist/kfootball.apk",
-  "notes": "업데이트 확인 기능 추가"
+  "notes": "배포 주소 연결"
 }
